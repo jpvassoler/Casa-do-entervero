@@ -1,0 +1,12 @@
+.sobre_sob{
+    text-align: center;
+    background-color: rgb(214, 212, 119);
+    border-radius: 5px;
+    margin: 0 auto; 
+    width: 80%;
+    padding: 20px;
+}
+
+#sobre_entrevero{
+    text-align: justify;
+}
